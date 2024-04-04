@@ -1,43 +1,42 @@
 [
   {
-    "question": "What is the theme and message of the poem?",
-    "choice1": "The message of the poem is that Black people should rise and defeat all forms of discrimination based on race.",
-    "choice2": "Although people are judging the speaker, he still rises with his own feet to face them.",
-    "choice3": "The word I rise depicts that the author wants revenge on those people that judge him.",
-    "choice4": "It talks about the books which are being judged by others but still some people acknowledge it as a very important thing to learn from so it still rises.",
+    "question": "The overall content of the poem can best be describe by which statement?",
+    "choice1": "The characteristics of a drop of dew are related to those of the human soul.",
+    "choice2": "The life cycle of a drop of dew is contemplated.",
+    "choice3": "The human soul is shown to be a drop of dew.",
+    "choice4": "The physical characteristics of dew are analyzed.",
     "answer": 1
   },
   {
-    "question": "Why do you think the has title been repeated so many times throughout the poem?",
-    "choice1": "This is to make a rhythm to the poem.",
-    "choice2": "It emphasizes the main point that is being described in the text.",
-    "choice3": "This creates an atmosphere, enables the harmony of the rhyme scheme & states & makes clear the theme of the poem.",
-    "choice4": "So that the reader will make a point that the author clearly wants revenge.",
+    "question": "Which of the following sets of adjectives is best suited to describing the poem’s tone?",
+    "choice1": "Mysterious, moody, and spiritual",
+    "choice2": "Pious, proper, and academic",
+    "choice3": "Intricate, delicate, and worshipful",
+    "choice4": "Straightforward, clever, sincere",
     "answer": 3
   },
   {
-    "question": "How does the repetition of the phrase, “I rise,” affect the tone and overall impact of the poem?",
-    "choice1": "It adds a touch of irony on which it contrasts the challenges that the author has been through a lot.",
-    "choice2": "There is a great feeling of empowerment and resilience which is evident throughout the poem.",
-    "choice3": "It creates a tone that is somber on which the hardships faced by the speaker are being highlighted.",
-    "choice4": "The various forms of this refrain give the poem a determined and triumphant tone. The Repetition of a phrase gives it emphasis, and that is exactly what the poet/speaker is doing here.",
+    "question": "The speaker’s metaphor for the human body is ______.",
+    "choice1": "“The orient dew”",
+    "choice2": "“The sphere”",
+    "choice3": "“The clear fountain”",
+    "choice4": "“The sweet leaves and blossoms green”",
     "answer": 4
   },
-  
   {
-    "question": "The title’s overall tone is:",
-    "choice1": "Proud and Hopeful",
-    "choice2": "Sad and melancholic",
-    "choice3": "Uncertain and confused",
-    "choice4": "Defiant and angry",
-    "answer": 1
+    "question": "The poem contains: I. A biblical allusion, II. An extended metaphor, III. An evocation of spiritual longing",
+    "choice1": "I only",
+    "choice2": "II only",
+    "choice3": "III only",
+    "choice4": "I, II, and III",
+    "answer": 4
   },
   {
-    "question": "Consider the literal and figurative meanings of the words “I rise” in the title. Which meaning is conveyed by the poem?",
-    "choice1": "Literally, it means physically getting up; figuratively, it represents lifting one’s spirits and aspiration.",
-    "choice2": "Literally, it denotes climbing a mountain; figuratively, it implies reaching for the stars.",
-    "choice3": "Literally, it means ascending from a lower position; figuratively, it signifies overcoming challenges.",
-    "choice4": "Literally, it refers to morning awaken; figuratively, it symbolizes hope and joy.",
-    "answer": 3
+    "question": "In the final four lines of the poem the poet suggests that _______.",
+    "choice1": "The dew drop will ultimately be destroyed by the sun",
+    "choice2": "The drop of dew will return to earth in the form of “manna”",
+    "choice3": "Souls as pure as a drop of dew will ascend to heaven",
+    "choice4": "Death brings spiritual unity with God",
+    "answer": 4
   }
 ]

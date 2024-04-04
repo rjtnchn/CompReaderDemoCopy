@@ -1,42 +1,42 @@
 [
   {
-    "question": "What mood or feeling might the poem evoke?",
-    "choice1": "Anger",
-    "choice2": "Sadness",
-    "choice3": "Excitement",
-    "choice4": "Peacefulness",
-    "answer": 4
-  },
-  {
-    "question": "What is the central theme of the poem?",
-    "choice1": "Tranquility and serenity of the night",
-    "choice2": "Nature",
-    "choice3": "The imagery of tired roses, fragrant mignotte, and swaying lilies",
-    "choice4": "Love",
-    "answer": 1
-  },
-  {
-    "question": "How does the poem conclude?",
-    "choice1": "With a surprising twist",
-    "choice2": "With a resolution to a conflict",
-    "choice3": "With an open-ended question",
-    "choice4": "With a reflection on the theme",
+    "question": "\"Departmental\" can best be described as",
+    "choice1": "The product of attentive observation",
+    "choice2": "An account of nature",
+    "choice3": "An allegory for human idiosyncrasies",
+    "choice4": "A light, simple narrative",
     "answer": 3
   },
   {
-    "question": "What is the poet’s attitude towards the subject matter?",
-    "choice1": "Indifferent",
-    "choice2": "Enthusiastic",
-    "choice3": "Critical",
-    "choice4": "Ambiguous",
+    "question": "The tone of the poem can best be described as",
+    "choice1": "Playful observation",
+    "choice2": "Scornful emphasis",
+    "choice3": "Light description",
+    "choice4": "Satirical exposition",
+    "answer": 4
+  },
+  {
+    "question": "What rhetorical strategy is exhibited in \"Death's come to Jerry McCormic,\" (line 23): I. Personification, II. Metaphor, III. Euphemism",
+    "choice1": "I only",
+    "choice2": "II only",
+    "choice3": "III only",
+    "choice4": "I and II only",
+    "answer": 3
+  },
+  {
+    "question": "\"Atwiddle\" in line most likely means",
+    "choice1": "upright",
+    "choice2": "alert",
+    "choice3": "flaccid",
+    "choice4": "quiescent",
     "answer": 2
   },
   {
-    "question": "What is the author's purpose in writing the poem?",
-    "choice1": "To entertain",
-    "choice2": "To evoke emotions",
-    "choice3": "To persuade",
-    "choice4": "To inform",
-    "answer": 2
+    "question": "The author's depiction of ants is best described as",
+    "choice1": "indifferently mechanical",
+    "choice2": "hierarchically divided",
+    "choice3": "selfishly compassionless",
+    "choice4": "fantastically human",
+    "answer": 4
   }
 ]

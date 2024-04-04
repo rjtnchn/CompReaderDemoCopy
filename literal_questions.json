@@ -1,42 +1,42 @@
 [
   {
-    "question": "Who are the main characters in the poem?",
-    "choice1": "The rock n rolls band.",
-    "choice2": "The children who want to form a rock n roll band.",
-    "choice3": "The million fans and the children.",
-    "choice4": "The seven kids in the sand.",
+    "question": "Starglyn and Suncon are the ____________.",
+    "choice1": "Scientists who invented the spacecraft",
+    "choice2": "Aliens who came to study Earth’s crust",
+    "choice3": "Conquerors to conquer Earth",
+    "choice4": "Residents of the crumbling city",
     "answer": 2
   },
   {
-    "question": "What do the children in the poem want to become?",
-    "choice1": "They want to be a traveler and travel around the world.",
-    "choice2": "They want to be famous and make a million fans.",
-    "choice3": "They want to become a millionaire as a band.",
-    "choice4": "The children want to become rock n roll musicians.",
+    "question": "What is the tone of the poem?",
+    "choice1": "Happy",
+    "choice2": "Satirical",
+    "choice3": "Instructional",
+    "choice4": "Cautionary",
     "answer": 4
   },
   {
-    "question": "What instruments do they mention in the poem?",
-    "choice1": "They always mention of rock n roll",
-    "choice2": "They mention instruments like homemade guitar and drums of potato chip cans.",
-    "choice3": "It is stated that pails and jars are what the children use.",
-    "choice4": "There is no instrument that is mentioned in the poem.",
-    "answer": 2
+    "question": "Why did Starglyn think that the people of Earth were aggressive?",
+    "choice1": "They eat a lot of food",
+    "choice2": "They don’t want to study",
+    "choice3": "The world is full of negative people",
+    "choice4": "The world has been destroyed",
+    "answer": 4
   },
   {
-    "question": "What is the central theme of the poem?",
-    "choice1": "The challenges of fame",
-    "choice2": "The power of music",
-    "choice3": "The joys of childhood imagination",
-    "choice4": "The longing for success",
+    "question": "Where did the researchers learn about the state of the Earth?",
+    "choice1": "From other aliens",
+    "choice2": "From other humans",
+    "choice3": "From the great Meteorite",
+    "choice4": "From the spacecraft",
     "answer": 3
   },
   {
-    "question": "What emotion could be associated with the poem?",
-    "choice1": "Grief and sorrow",
-    "choice2": "Joy and excitement",
-    "choice3": "Calmness and tranquility",
-    "choice4": "Boredom and monotony",
+    "question": "“They were allowed to choose” Who is ‘they’ here?",
+    "choice1": "‘They’ refer to aliens",
+    "choice2": "‘They’ refer to humans",
+    "choice3": "‘They’ refer to earth",
+    "choice4": "‘They’ refer to them",
     "answer": 2
   }
 ]
